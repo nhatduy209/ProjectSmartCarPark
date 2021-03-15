@@ -1,6 +1,6 @@
 Đề tài môn Công nghệ phần mềm 
-Tên đề tài 
-Nhóm thực hiện 
+Tên đề tài : Ứng dụng bãi đỗ xe thông minh
+Nhóm thực hiện : 
 Danh sach các yêu cầu của đề tài :
 Hướng dẫn sử dụng :
 1.
